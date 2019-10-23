@@ -1,0 +1,53 @@
+.page-loader .progress {
+	border-left-color:#24b7a4;
+}
+
+.player-controls a:hover {
+	background:#24b7a4;
+	border:1px solid #24b7a4;
+}
+
+.services .icon i.fa {
+	color:#24b7a4;
+	border:1px solid #24b7a4;
+}
+
+.services .icon i.fa:hover,
+.contact input[type="submit"]:hover,
+.up-btn:hover {
+	background:#24b7a4;
+}
+
+.services h2:after,
+.contact input[type='submit'] {
+	border:2px solid #24b7a4;
+}
+
+.subscribe label.error i,
+.contact #ajax-contact-form i,
+.contact .notification_ok i,
+.google-map .email > a:hover,
+footer a {
+    color:#24b7a4;
+}
+
+.subscribe button {	
+	background-color:rgba(36, 183, 164, 0.52); 
+	border:1px solid rgba(36, 183, 164, 0.52);
+}
+
+.google-map .email > a {
+  	color:rgba(36, 183, 164, 0.8);
+}
+
+#zoom-in, #zoom-out {
+  	background-color:rgba(36, 183, 164, 0.8);
+}
+
+#zoom-in:hover, #zoom-out:hover {
+	background-color:#24b7a4;
+}
+
+.up-btn {
+	background:rgba(36, 183, 164, 0.5);
+}
